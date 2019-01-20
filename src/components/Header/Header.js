@@ -49,16 +49,12 @@ export default class Header extends React.Component {
           unmountOnExit
         >
         <div className={'info'}>
-        <h3 className={'name'}>Liam Farrell</h3>
-        <a href='mailto:liam@awaitingimage.com' className='pad-right-15'>
-          <i className='fa fa-envelope pad-right-5' aria-hidden='true' />liam@awaitingimage.com
+        <h3 className={'name'}>Callam Farrell</h3>
+        <a href='https://github.com/Calfazzo' className='pad-right-15'>
+          <i className='fa fa-github pad-right-5' aria-hidden='true' />@Calfazzo
         </a>
-        <br/>
-        <a href='https://github.com/awaitingimage' className='pad-right-15'>
-          <i className='fa fa-github pad-right-5' aria-hidden='true' />@awaitingimage
-        </a>
-        <a href='https://www.linkedin.com/in/liam-farrell-1a513b26' className='pad-right-15'>
-          <i className='fa fa-linkedin-square pad-right-5' aria-hidden='true' />@liamfarrell
+        <a href='https://www.linkedin.com/in/callam-farrell-95590a11a/' className='pad-right-15'>
+          <i className='fa fa-linkedin-square pad-right-5' aria-hidden='true' />@CallamFarrell
         </a>
         </div>
       </CSSTransition>

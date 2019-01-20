@@ -24,7 +24,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "lint": "standard --fix | snazzy",
-    "deploy": "yarn run build && aws s3 sync build/ s3://awaitingimage.com --profile default"
+    "deploy": "react-scripts build && firebase deploy"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.2",
