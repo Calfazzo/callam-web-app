@@ -4,7 +4,7 @@ import { CSSTransition } from 'react-transition-group';
 import { Grid, Row, Col, Label } from 'react-bootstrap'
 
 import './Header.css'
-const headshot = require('../../static/images/headshot.png')
+const headshot = require('../../static/images/headshot.jpg')
 
 export default class Header extends React.Component {
 
