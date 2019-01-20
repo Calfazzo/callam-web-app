@@ -1,108 +1,37 @@
 {
-    "summary": "A high-performing Technical Scrum Master and Agile Delivery Manager with a passion for solving complex problems by utilising Agile, mobile technology and open source software. Certified Scrum Master, Product Owner and experienced full stack developer. Experienced coaching and coordinating multi-agency development teams for private sector and government bodies in Agile. Sets and adheres to high quality standards across teams and projects.",
+    "summary": "I have always had a passion for the culinary arts and the food industry. This passion led me to explore a career in the culinary world that I am motivated to progress within. I have lived and worked all over the world, which has fuelled a love of travel and discovering new cuisine. I draw most of my influences from my English heritage as well as from my time living in both Germany and The USA. Drawing from my past experiences led me to medal in many competitions, such as winning gold at the welsh international culinary competition. During the summer of 2015, I was fortunate enough to work at Il Buco, a Michelin star restaurant in Italy, this gave me the drive to pursue a career creating world class meals that I have today.",
     "experiences": [
         {
-            "title": "Scrum Master - Sapient Ltd",
-            "dates":"February 2018 – Current",
+            "title": "Chef de Partie",
+            "dates":"July 2017 – February 2018",
             "bullets": [
-                "Scrum Master for a financial services client.",
-                "Working with a Technical Scrum team to implement architecturual patterns across the programme."
+                "Prepare all ingredients for daily use.",
+                "Lead the pass for daily service.",
+                "Complete all kitchen tasks to the standard set.",
+                "Clean down and close kitchen at the end of service."
             ]
         },
         {
-            "title": "Agile Delivery Manager – Tower of London",
-            "dates":"October 2017 – January 2018",
+            "title": "Chef de Partie",
+            "dates":"April 2016 – August 2016",
             "bullets": [
-                "Architected a solution for the update of the audio visitors guide to a mobile device based platform.",
-                "Project planning, setup and team leadership for CMS, mobile application and integration teams.",
-                "Development Android mobile app using React Native, Redux, Typescript and MS Apps Center."
-            ]
-        },
-        {
-            "title": "Scrum Master and Agile Coach - Diabetes UK",
-            "dates":"March 2017 – September 2017",
-            "bullets": [
-                "Scrum Master for a project to redesign, rebuild and migrate content for the main website of Diabetes UK.",
-                "Coached a member of the team to step up and take on the role of Scrum Master for the project."
-            ]
-        },
-        {
-            "title": "Technical Scrum Master and Agile Coach - Government Department",
-            "dates":"February 2016 – October 2017",
-            "bullets": [
-                "Technical Scrum Master for multi-striped development teams at the National Cyber Security Centre.",
-                "Used AWS, Github flow, Jenkins, React, Node and strongloop to build the application and tooling to enable continuous delivery of code to the application."
-            ]
-        },
-        {
-            "title": "Mobile Lead and Scrum Master – NHS ESR Staffing Record",
-            "dates":"2015 / 2016",
-            "bullets": [
-                "Scrum Master for NHS HR Mobile Apps team, leading both as Scrum Master and technical lead.",
-                "Selected and setup Mobile Development team, tools, frameworks and hardware.",
-                "Defined Mobile Architecture and worked with external teams to link with integration and security services.",
-                "Worked with clients to define, scope and document mobile applications.",
-                "Created applications for IOS and Android using Apache Cordova, Backbone and JQuery.",
-                "Created personal goals for team members and performed 1 to 1 review sessions to assess against the agreed goals.",
-                "Reported to senior stakeholders on the team’s progress."
-            ]
-        },
-        {
-            "title": "Solution Architect – Nationwide Banking App",
-            "dates":"2014",
-            "bullets": [
-                "Estimated, solutioned and planned in new products and services for the mobile banking app."
-            ]
-        },
-        {
-            "title": "Mobile Business Analyst – Avon and Somerset Constabulary",
-            "dates":"2013",
-            "bullets": [
-                "Running of requirement workshops incorporating multiple areas of the clients business.",
-                "Gathering and analysis of non-functional business requirements, focusing on usability and connectivity of mobile devices."
-            ]
-        },
-        {
-            "title": "Performance Test Workstream Lead – Ministry of Defence",
-            "dates":"2012",
-            "bullets": [
-                "Responsibility for the planning and delivery of the Performance Test workstream.",
-                "Coordinated testers and technical resources to conduct system Tests."
-            ]
-        },
-        {
-            "title": "Siebel and OPA Consultant – Home Office",
-            "dates":"2010 / 2011",
-            "bullets": [
-                "Worked to client business requirements, building Siebel screens and workflows.",
-                "Lead developer for Business Intelligence Publisher which produced all written communication output from the Siebel system."
+                "Prepare all side accompaniments.",
+                "Prepare all dishes to be sent out to the restaurant.",
+                "Complete all kitchen tasks and keep log book up to date.",
+                "Clean down and close kitchen at the end of service.",
+                "Working under pressure to ensure all orders have completed within a 10 minute turnaround time."
             ]
         }
     ],
     "primarySkills": [
-        "Scrum Master",
-        "Agile Coaching",
-        "Team Leadership",
-        "Technical Trainer",
-        "Javascript / ES6",
-        "React",
-        "React Native",
-        "Redux",
-        "Node.js",
-        "AWS"
+        "Master Chef",
+        "Crazy Agility",
+        "Team Work? Yes",
+        "Pokemon Trainer"
                 
     ],
     "secondarySkills": [
-        "Typescript",
-        "HTML",
-        "CSS / SASS",
-        "MySQL",
-        "Java",
-        "C#",
-        "XML",
-        "Android",
-        "Git",
-        "Linux",
-        "Mac OS X"
+        "Korean",
+        "Good at Dance"
     ]
 }
